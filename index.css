@@ -1,0 +1,23 @@
+.container{
+    width: 520px;
+    border-radius: 20px;
+    background-color: #fff;
+    height: auto;
+}
+body{
+    background-color: black;
+}
+.base{
+    width: 100%;
+    border-radius: 20px;
+    margin: 0;
+    overflow: hidden;
+    display: block;
+    float: none;
+}
+
+.block{
+    width: 135px;
+    padding: 5px 20px;
+    margin-left: 20px;
+}
